@@ -1,0 +1,52 @@
+Version: 2
+
+Offset: 50
+Pin: clk_enable W MET4
+
+Spacing: 90
+Pin: reset_x W MET4
+Pin: clk_enable W MET4
+Pin: ce_out N MET4
+
+Offset: 50
+
+
+Spacing: 50
+Pin: output_rsvd[0] E MET4
+Pin: output_rsvd[1] E MET4
+Pin: output_rsvd[2] E MET4
+Pin: output_rsvd[3] E MET4
+Pin: output_rsvd[4] E MET4
+Pin: output_rsvd[5] E MET4
+Pin: output_rsvd[6] E MET4
+Pin: output_rsvd[7] E MET4
+Pin: output_rsvd[8] E MET4
+Pin: output_rsvd[9] E MET4
+Pin: output_rsvd[10] E MET4
+Pin: output_rsvd[11] E MET4
+Pin: output_rsvd[12] E MET4
+Pin: output_rsvd[13] E MET4
+Pin: output_rsvd[14] E MET4
+Pin: output_rsvd[15] E MET4
+
+
+Offset: 50
+
+
+Spacing: 50
+Pin: input_rsvd[0] W MET4
+Pin: input_rsvd[1] W MET4
+Pin: input_rsvd[2] W MET4
+Pin: input_rsvd[3] W MET4
+Pin: input_rsvd[4] W MET4
+Pin: input_rsvd[5] W MET4
+Pin: input_rsvd[6] W MET4
+Pin: input_rsvd[7] W MET4
+Pin: input_rsvd[8] W MET4
+Pin: input_rsvd[9] W MET4
+Pin: input_rsvd[10] W MET4
+Pin: input_rsvd[11] W MET4
+Pin: input_rsvd[12] W MET4
+Pin: input_rsvd[13] W MET4
+Pin: input_rsvd[14] W MET4
+Pin: input_rsvd[15] W MET4
